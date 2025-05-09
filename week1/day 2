@@ -1,0 +1,5 @@
+def f():
+    a = "I am local"
+    print(a)
+
+f()
